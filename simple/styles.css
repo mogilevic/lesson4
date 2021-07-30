@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background: #a52a2a;
+    color: #fff;
+}
+
+.sunset, .cars {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 10px solid #FFF;
+    border-radius: 10px;
+    box-shadow: 2px 3px 8px -2px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
